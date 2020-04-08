@@ -28,8 +28,8 @@ navigation:
     url: /categories.html
   - name: 项目
     url: /project.html
-  # - name: RSS
-  #   url: /atom.xml
+  - name: RSS
+    url: /atom.xml
   - name: 关于
     url: /about.html
 

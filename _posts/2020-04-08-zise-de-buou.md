@@ -1,4 +1,18 @@
-# 紫色的布偶
+---
+
+layout: post
+
+title: 紫色的布偶
+
+date: 2020-04-08
+
+categories: Archive
+
+tags: 示例
+
+description: 一首诗
+
+---
 
 北京今日的黄昏有一幕紫色的天空  
 

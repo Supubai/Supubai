@@ -13,6 +13,7 @@ tags: 诗歌
 description: 一首诗
 
 ---
+![紫色.jpg](https://i.loli.net/2020/07/01/RsjExYVX9GA5Pv7.jpg)
 
 北京今日的黄昏有一幕紫色的天空  
 
